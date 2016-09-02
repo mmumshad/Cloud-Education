@@ -12,7 +12,7 @@ These presentations can be accessed from Laptops, Computers or Tablets thus maki
 ### Primary School - Cloud Introduction 
 Introduces cloud to the students through a scenario of two friends sharing movie files. Then explains the various concepts of cloud computing and EMC's cloud offerings. 
 
-**Experiments: **
+**Experiments **
 
 1. Install free cloud storage application on computers and demo access anywhere feature of cloud 
 2. Create account for the students on online paint application (queeky.com) to demonstrate SAAS. 
@@ -20,7 +20,7 @@ Introduces cloud to the students through a scenario of two friends sharing movie
 ### Secondary School - Cloud Introduction 
 In addition to the above, explains cloud concepts to students using a web hosting scenario and the advantages of cloud in it. 
 
-Experiments:
+**Experiments **
 
 1. Create a free/temporary account on Amazon web services(or similar) to demo IAAS feature of cloud so students could host their own web site for free. 
 2. Visualizing Western Expansion - Students analyze the divergent paths of the American people in the West from 1800 to the mid-1800s and the challenges they faced, using Google's cloud-based fusion tables. 
@@ -34,7 +34,7 @@ Experiments:
 ### Primary School - Big Data Introduction 
 Introduces BigData concepts to children through animated slides - generators of big data and what we do with big data, big data challenges and EMC's solutions, batch processing algorithms and map-reduce algorithms explained in very simple way. 
 
-**Experiments: **
+**Experiments**
 
 1. Storage space calculation excersise - Students calculate the amount of storage required for a site like facebook. 
 2. Analyze the results of a class of students using tally sheets and idenitfy the subjects needed for improvement. Then show how big data accomplishes this for all students in a school, state or country. 
